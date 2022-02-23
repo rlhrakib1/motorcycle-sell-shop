@@ -1,0 +1,17 @@
+header, footer{
+    background: #264653;
+}
+.button-hover-style:hover{
+    color: rgb(220,53,69);
+    background: white;
+}
+hr{
+    width: 10%;
+    
+}
+.grayscale-1{
+    filter: grayscale(100%);
+}
+.grayscale-2{
+    filter: grayscale(50%);
+}
